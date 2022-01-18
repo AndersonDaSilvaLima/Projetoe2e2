@@ -6,6 +6,7 @@ public class hello {
 		System.out.println("Hello word");
 		System.out.println("Ola git");
 		System.out.println("Ola github");
+		System.out.println("Teste, teste");
 
 	}
 
